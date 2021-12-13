@@ -1,0 +1,24 @@
+{
+  "name": "nodedemos",
+  "version": "1.0.0",
+  "description": "Sample node project",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanderlx21/NodeDemos.git"
+  },
+  "author": "Alexander Zaks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zanderlx21/NodeDemos/issues"
+  },
+  "homepage": "https://github.com/zanderlx21/NodeDemos#readme",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "cowsay": "^1.5.0",
+    "lodash": "^4.17.21"
+  }
+}
